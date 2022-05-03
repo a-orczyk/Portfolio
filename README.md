@@ -29,6 +29,7 @@ I would like to introduce myself here via sharing my gained experience, research
   - Kariera IT, Tech Talk, Stacja IT, Testelka.pl
   - Active participation in meetups Geek Girls Carrots in Poznań, Poland
   - Workshops and meetups of the group .NET in Poznan University of Technology
+  - w3schools.com - HTML, CSS, SQL
   - Conference 4Developers 2022 - Testing & QA by ING Tech Poland
 # Books
   - K. Jadczyk - Passion of Testing
