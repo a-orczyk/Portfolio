@@ -21,7 +21,6 @@ I would like to introduce myself here via sharing my gained experience, research
   - DevTools
   - CSS
   - SQL
-  - DevTools
   - Linux
   - SCRUM
   - C# & .NET (in progress)
