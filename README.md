@@ -10,6 +10,7 @@ I would like to introduce myself here via sharing my gained experience, research
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
   - [Xmind](https://www.xmind.net/) - Mind mapping software
   - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
+  - Nimbus Screenshot & Screen Video Recorder
   - Notepad++
   - Visual Studio Code
   - Github
@@ -39,7 +40,10 @@ I would like to introduce myself here via sharing my gained experience, research
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
-  - Girls Who Tests
+  - Girls Who Test community
+  - Cherry-IT: Zostań Testerem
+  - Geek Girls Carrots Kraków
+  - Geek Girls Carrots Warszawa
 # Recommended blogs
   - testerzy.pl
   - testuj.pl
