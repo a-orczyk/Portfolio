@@ -1,7 +1,7 @@
 # Portfolio
 # About me
-I'm Angelika Grzegorczyk - a master of Intermedia arts in the University of Arts in Poznań, Poland. Currently working as the QA Tester in the company which provides the insource projects. I want to permanently improve my technical skills and develop testing knowledge. I have the experience in functional and exploratory testing for web and mobile apps. Especially, I am concerned in the UX and UI elements.
-I would like to introduce myself here via sharing my gained experience, research and stuff which is interesting for me as the software tester.
+I'm Angelika Grzegorczyk - a master of Intermedia arts in the University of Arts in Poznań, Poland. Currently working as the QA Tester in the company which provides the insource projects. I want to constantly improve my technical skills and develop testing knowledge. I have the experience in functional and exploratory testing for web and mobile apps. Especially, I am interested in the UX and UI elements.
+I would like to introduce myself here via sharing my gained experience, research and stuff which is interesting for me as the Software Tester.
 # Tools
   - [Postman](https://www.postman.com/) - REST API testing tool
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
