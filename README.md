@@ -14,7 +14,6 @@ I would like to introduce myself here via sharing my gained experience, research
   - Visual Studio Code
   - Github
 # Tech skills
-  - Framework: SCRUM
   - Software testing
   - Creating test cases
   - Reporting bugs
